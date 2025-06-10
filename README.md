@@ -1,52 +1,63 @@
-<h1 align="center">Olá! 👋</h1>
-<p align="center">Bem-vindo ao meu perfil GitHub!</p>
+<h1 align="center">🚀 Ezequiel Francisco | Python Developer</h1>
+<p align="center">Código limpo, soluções elegantes e café sem fim</p>
 
 ---
 
-## 🧑 Sobre mim
+## 💻 Sobre o Dev
 
-- 🎓 Estudante de **Ciências da Computação**
-- 💻 Interessado em **Inteligência Artificial, Desenvolvimento de APIs e Segurança Informática**
-- 🌱 Actualmente a aprender **Python** e **Machine Learning**
-- 🚀 Objetivo: tornar-me **Engenheiro de Machine Learning** e **Desenvolvedor Fullstack**
+- 🐍 Pythonista apaixonado por **automação, análise de dados e desenvolvimento backend**
+- 🔭 Trabalhando atualmente em **APIs robustas com FastAPI e Django**
+- 🤖 Explorando **IA Generativa e LLMs** no meu tempo livre
+- 🧪 Test-driven development enthusiast
+- 📦 Contribuidor open-source em projetos Python
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Técnica
 
+### Linguagens & Frameworks
 <div>
-  <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img alt="Bootstrap" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="Flask" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
-  <img alt="Flutter" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
-  <img alt="Firebase" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
-  <img alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img alt="GitHub" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="Django" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
+  <img alt="FastAPI" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
+  <img alt="Pandas" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
+  <img alt="NumPy" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
+  <img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+</div>
+
+### Ferramentas & Plataformas
+<div>
+  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img alt="Linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+  <img alt="AWS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img alt="Jupyter" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />
 </div>
 
 ---
 
-## 📊 Linguagens Mais Usadas
+## 📈 Estatísticas do Código
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0CKST4R-02&layout=donut&show_icons=true&theme=radical)](https://github.com/R0CKST4R-02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0CKST4R-02&layout=compact&langs_count=6&theme=dracula&hide=html,css)](https://github.com/R0CKST4R-02)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=R0CKST4R-02&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
-## 📫 Contacto
+## 📫 Vamos Conectar
 
 <div>
   <a href="https://www.linkedin.com/in/ezequiel-francisco-9b2a30326/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ezequiel.p.a.francisco@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://medium.com/@ezequiel.p.a.francisco" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </div>
 
 ---
 
-<p align="center"><em>"Conhece-te a ti mesmo." – Sócrates</em></p>
-<p align="center">✨ Obrigado por visitares o meu perfil! ✨</p>
+<p align="center"><em>"First solve the problem. Then write the code." — John Johnson</em></p>
