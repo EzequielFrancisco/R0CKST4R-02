@@ -39,10 +39,10 @@
 
 ## 📈 Estatísticas do Código
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0CKST4R-02&layout=compact&langs_count=6&theme=dracula&hide=html,css)](https://github.com/R0CKST4R-02)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=R0CKST4R-02&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<div display="flex" justify-content="space-around">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0CKST4R-02&layout=compact&langs_count=6&theme=dracula&hide=html,css)](https://github.com/R0CKST4R-02)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=R0CKST4R-02&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
 ---
 
 ## 📫 Vamos Conectar
