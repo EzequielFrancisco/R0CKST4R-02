@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Ezequiel Francisco | Python Developer</h1>
-<h4>Computer Science Student</h4>
+<h4 align="center">Computer Science Student</h4>
 <p align="center">Código limpo, soluções elegantes e café sem fim</p>
 
 
