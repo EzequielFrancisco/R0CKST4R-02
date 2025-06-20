@@ -1,16 +1,17 @@
 <h1 align="center">🚀 Ezequiel Francisco | Python Developer</h1>
+<h4>Computer Science Student</h4>
 <p align="center">Código limpo, soluções elegantes e café sem fim</p>
+
 
 ---
 
 ## 💻 Sobre o Dev
 
-- 🐍 Pythonista apaixonado por **automação, análise de dados e desenvolvimento backend**
-- 🔭 Trabalhando atualmente em **APIs robustas com FastAPI e Django**
-- 🤖 Explorando **IA Generativa e LLMs** no meu tempo livre
+- 🐍 Pythonista passionate about **automation, data analysis and backend development**
+- 🔭 Currently working on **robust APIs with FastAPI and Django**
+- 🤖 Exploring **Generative AI and LLMs** in my spare time
 - 🧪 Test-driven development enthusiast
-- 📦 Contribuidor open-source em projetos Python
-
+- 📦 Open-source contributor to Python projects
 ---
 
 ## 🛠️ Stack Técnica
