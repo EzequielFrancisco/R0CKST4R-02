@@ -8,7 +8,6 @@
         <stop offset="100%" stop-color="#FFD343"/>
       </linearGradient>
     </defs>
-
     <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle"
           font-family="'Fira Code','Source Code Pro',Consolas,monospace"
           font-size="64" font-weight="700" fill="url(#pythonGrad)">
