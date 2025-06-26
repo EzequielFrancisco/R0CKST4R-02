@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Ezequiel Francisco | Python Developer</h1>
+<h1 align="center">🚀 Ezequiel Francisco | Developer</h1>
 <h3 align="center">🎓 Computer Science Student</h3>
 <p align="center"><em>Código limpo, soluções elegantes e café sem fim ☕</em></p>
 
@@ -6,9 +6,8 @@
 
 ## 💻 Sobre Mim
 
-Sou um desenvolvedor Python apaixonado por automação, análise de dados e back-end.  
-Atualmente trabalhando com APIs robustas em **FastAPI** e **Django**,  
-e explorando o mundo da **IA Generativa e LLMs** no tempo livre.
+ 
+Python explorando o mundo da **IA Generativa e LLMs**.
 
 - 🧪 Adepto de Test-Driven Development  
 - 📦 Contribuidor ativo de projetos open-source  
@@ -40,7 +39,6 @@ e explorando o mundo da **IA Generativa e LLMs** no tempo livre.
 ---
 
 ## 📈 Estatísticas do Código
-
 <table>
   <tr>
     <td>
@@ -50,7 +48,7 @@ e explorando o mundo da **IA Generativa e LLMs** no tempo livre.
     </td>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=R0CKST4R-02&theme=dark&date_format=j%20M%5B%20Y%5D" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app?user=R0CKST4R-02&theme=dracula&date_format=j%20M%5B%20Y%5D" />
       </a>
     </td>
   </tr>
