@@ -1,38 +1,27 @@
-<!-- ===== Python-gradient name ===== -->
-<h1 align="center">
-  <svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <!-- gradiente azul (#3776AB) → amarelo (#FFD343) -->
-      <linearGradient id="pythonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%"  stop-color="#3776AB"/>
-        <stop offset="100%" stop-color="#FFD343"/>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle"
-          font-family="'Fira Code','Source Code Pro',Consolas,monospace"
-          font-size="64" font-weight="700" fill="url(#pythonGrad)">
-      EZEQUIEL&nbsp;FRANCISCO
-    </text>
-  </svg>
+<!-- =========================
+         README – Ezequiel
+========================= -->
 
-  <br/>
-  <span style="font-size:1.2rem;">Software&nbsp;Developer</span>
-</h1>
+<h1 align="center">🚀 Ezequiel Francisco&nbsp;· Software Developer</h1>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=R0CKST4R-02" alt="Visitors"/>
+</p>
+<p align="center"><em>Clean code, elegant solutions &amp; endless coffee ☕</em></p>
 
 ---
 
-## About&nbsp;Me
+## About Me
 
-- 🎯 &nbsp;Focused on **Generative AI &amp; Large Language Models (LLMs)**
-- 🧪 &nbsp;Fan of **Test-Driven Development**
-- 📦 &nbsp;Active **open-source contributor**
-- 🔍 &nbsp;Always striving for maintainable, elegant code
+- 🎯 Focused on **Generative AI &amp; Large Language Models (LLMs)**
+- 🧪 Fan of **Test-Driven Development**
+- 📦 Active **open-source contributor**
+- 🔍 Always striving for maintainable, elegant code
 
 ---
 
-## 🛠️ Tech&nbsp;Stack&nbsp;&amp;&nbsp;Tools  
+## 🛠️ Tech Stack &amp; Tools  
 
-### Languages&nbsp;&amp;&nbsp;Frameworks
+### Languages &amp; Frameworks
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="40" alt="Django" />
@@ -42,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </p>
 
-### Platforms&nbsp;&amp;&nbsp;Other&nbsp;Tools
+### Platforms &amp; Other Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
@@ -53,7 +42,7 @@
 
 ---
 
-## 📊 GitHub&nbsp;Statistics
+## 📊 GitHub Statistics
 <table>
   <tr>
     <td>
@@ -71,13 +60,13 @@
 
 ---
 
-## 📌 Featured&nbsp;Projects
-- **[Project Name](PROJECT_LINK)** – One-sentence description of what it does and the main tech behind it.  
-- **[Another Project](PROJECT_LINK)** – Brief highlight (replace or extend as needed).
+## 📌 Featured Projects
+- **[chatbot-fastapi](https://github.com/R0CKST4R-02/chatbot-fastapi)** – FastAPI-based LLM chatbot built with LangChain &amp; OpenAI.  
+- **[data-pipeline-demo](https://github.com/R0CKST4R-02/data-pipeline-demo)** – End-to-end ETL pipeline using Python, Pandas and PostgreSQL.
 
 ---
 
-## 📫 Connect&nbsp;with&nbsp;Me
+## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ezequiel-francisco-9b2a30326/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -92,4 +81,9 @@
 
 ---
 
-<p align="center"><em>"First solve the problem. Then write the code." — John Johnson</em></p>
+<p align="center">
+  <em>"First solve the problem. Then write the code." — John&nbsp;Johnson</em><br/>
+  <br/>
+  <!-- Optional lightweight GIF -->
+  <img src="https://raw.githubusercontent.com/R0CKST4R-02/R0CKST4R-02/main/assets/coding.gif" width="220" alt="Coding GIF"/>
+</p>
